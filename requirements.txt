@@ -1,0 +1,11 @@
+requests
+rich
+colorama
+scapy
+psutil
+pyfiglet
+dnspython
+whois
+python-nmap
+beautifulsoup4
+lxml
